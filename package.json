@@ -2,6 +2,7 @@
   "name": "ttt",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/3d-human",
   "dependencies": {
     "@google/generative-ai": "^0.2.0",
     "@react-three/drei": "^9.17.1",
